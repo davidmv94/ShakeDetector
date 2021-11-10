@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ShakeDetector</string>
+    <string name="shake_detector">Shake Detector</string>
+</resources>
